@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new">
+        <file alias="10">Resources/10.png</file>
+        <file alias="11">Resources/11.png</file>
+        <file alias="12">Resources/timg.jpeg</file>
+        <file alias="4">Resources/212.gif</file>
+        <file alias="volume">Resources/volume.png</file>
+        <file alias="volume2">Resources/volume2.png</file>
+        <file alias="1">Resources/1.jpg</file>
+        <file alias="hn">Resources/湖南_TV_221px_518251_easyicon.net.png</file>
+        <file alias="hk">Resources/hong_kong_468px_1203242_easyicon.net.png</file>
+    </qresource>
+</RCC>
